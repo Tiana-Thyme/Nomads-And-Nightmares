@@ -1,0 +1,10 @@
+2026/10/20-21:13:36.810 3be0 Recovering log #73
+2026/10/20-21:13:36.814 3be0 Delete type=0 #73
+2026/10/20-21:13:36.814 3be0 Delete type=3 #72
+2026/10/20-22:55:51.517 10dc Compacting 2@0 + 1@1 files
+2026/10/20-22:55:51.581 10dc Generated table #76@0: 71 keys, 42673 bytes
+2026/10/20-22:55:51.581 10dc Compacted 2@0 + 1@1 files => 42673 bytes
+2026/10/20-22:55:51.587 10dc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/20-22:55:51.589 10dc Delete type=2 #63
+2026/10/20-22:55:51.591 10dc Delete type=2 #65
+2026/10/20-22:55:51.594 10dc Delete type=2 #70
